@@ -1,21 +1,38 @@
-<h1 align="center">Hi 👋, I'm Kilian</h1>
-<h3 align="center">A passionate front- & backend developer from India</h3>
+<h1 align="center">👋 Welcome to Kilian's World</h1>
+<h3 align="center">Aspiring in Code & Innovation for secure ethical AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=essingen123&label=Profile%20views&color=0e75b6&style=flat" alt="essingen123" /> </p>
+<p align="left">Kilian, renowned for his expertise in relational databases, functional programming, and interface design, stands at the forefront of human-machine interaction. His work, deeply rooted in ethical principles, aims to create meaningful and sustainable AI-driven solutions.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=essingen123" alt="essingen123" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123" alt="Kilian's GitHub Trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/k_swe" target="blank"><img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="k_swe" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/k_swe" target="blank">
+    <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [aĩr](aĩr.com)
+<ul>
+  <li>🔭 Co-founder of the aĩr project, Kilian drives ethical AI practices for global sustainability and human prosperity. <a href="aĩr.com">Learn More</a></li>
 
-- 🌱 I’m currently learning **Chrome extension & SIP Teleephony**
+  <li>🔮 With a diverse advisory portfolio, he leads projects in growth automation and AI, contributing to innovations like Google Cardboard, Spotify Run Keeper, and more.</li>
 
-- 👨‍💻 All of my projects are available at [codepen.com](codepen.com)
+  <li>🌱 His current focus includes AI in audio processing and resonance modulation, exploring the intersection of technology and natural phenomena.</li>
 
-- 📝 I regularly write articles on [AI News Sweden](AI News Sweden)
+  <li>👨‍💻 Kilian's creative endeavors, ranging from functional programming to AR/VR applications, are featured on <a href="codepen.com">CodePen</a>.</li>
 
-- 📄 Know about my experiences [https://linkedin.com/in/linkkedin/](https://linkedin.com/in/linkkedin/)
+  <li>📝 As a thought leader at <a href="AI News Sweden">AI News Sweden</a>, he advocates for responsible AI development.</li>
+
+  <li>📝 Kilian's journey over two decades has revolutionized mobile e-commerce, CRM, and AI-driven business solutions.</li>
+
+  <li>🎵 From a deep house music producer to a researcher in audio resonance, his work explores the unique influence of sound on matter, particularly water molecules.</li>
+</ul>
+
+
+- 📄 [https://linkedin.com/in/linkkedin/](https://linkedin.com/in/linkkedin/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
