@@ -25,11 +25,13 @@
   <li>🎵 From a deep house music producer to a researcher in audio resonance, his work explores the unique influence of sound on matter, particularly water molecules.</li>
 </ul>
 
+
+
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A&column=3" alt="Kilian's GitHub Trophies" width="300" />
 </p>
 
-📄 [https://linkedin.com/in/linkkedin/](https://linkedin.com/in/linkkedin/)
 
 
 
