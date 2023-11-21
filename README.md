@@ -3,10 +3,8 @@
 
 <p align="left">Kilian, renowned for his expertise in relational databases, functional programming, and interface design, stands at the forefront of human-machine interaction. His work, deeply rooted in ethical principles, aims to create meaningful and sustainable AI-driven solutions.</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" width="50" height="50%" align="middle" />
-  </a>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" width="50%" height="50%" align="middle" />
 </p>
 
 <p align="left">
