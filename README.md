@@ -29,7 +29,7 @@
 
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A&column=3" alt="Kilian's GitHub Trophies" width="300" />
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A&column=3&theme=oldie" alt="Kilian's GitHub Trophies" width="300" />
 </p>
 
 
