@@ -26,7 +26,7 @@
 </ul>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" align="center" />
 </p>
 
 - 📄 [https://linkedin.com/in/linkkedin/](https://linkedin.com/in/linkkedin/)
