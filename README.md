@@ -25,17 +25,15 @@
   <li>🎵 From a deep house music producer to a researcher in audio resonance, his work explores the unique influence of sound on matter, particularly water molecules.</li>
 </ul>
 
-<p align="center" width="100%">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" align="center" />
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" style="max-width:100%;" />
 </p>
 
 - 📄 [https://linkedin.com/in/linkkedin/](https://linkedin.com/in/linkkedin/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect </h3>
 <p align="left">
 <a href="https://dev.to/kilianlindberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kilianlindberg" height="30" width="40" /></a>
 <a href="https://twitter.com/k_swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_swe" height="30" width="40" /></a>
