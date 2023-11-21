@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&ran=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" />
   </a>
 </p>
 
