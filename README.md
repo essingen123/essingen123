@@ -3,10 +3,6 @@
 
 <p align="left">Kilian, renowned for his expertise in relational databases, functional programming, and interface design, stands at the forefront of human-machine interaction. His work, deeply rooted in ethical principles, aims to create meaningful and sustainable AI-driven solutions.</p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" width="50%" height="50%" align="middle" />
-</p>
-
 <p align="left">
   <a href="https://twitter.com/k_swe" target="blank">
     <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
@@ -29,6 +25,9 @@
   <li>🎵 From a deep house music producer to a researcher in audio resonance, his work explores the unique influence of sound on matter, particularly water molecules.</li>
 </ul>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A" alt="Kilian's GitHub Trophies" />
+</p>
 
 - 📄 [https://linkedin.com/in/linkkedin/](https://linkedin.com/in/linkkedin/)
 
