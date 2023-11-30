@@ -3,12 +3,6 @@
 
 <p align="left">A renowned expertise in data processing, functional coding and interactive AI gives a forefront of human-machine interaction. His work, aspired to be deeply rooted in ethical principles, is driven to create meaningful and sustainable AI-driven solutions.</p>
 
-<p align="left">
-  <a href="https://twitter.com/k_swe" target="blank">
-    <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
-  </a>
-</p>
-
 <ul>
   <li>🔭 Co-founder of the aĩr project, AI practices adressing GRR. <a href="aĩr.com">Learn More</a></li>
 
@@ -25,7 +19,11 @@
   <li>🎵 From a deep house music producer to a researcher in audio resonance, his work explores the unique influence of sound on matter, particularly water molecules.</li>
 </ul>
 
-
+<p align="left">
+  <a href="https://twitter.com/k_swe" target="blank">
+    <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
+  </a>
+</p>
 
 
 <p align="center">
