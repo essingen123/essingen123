@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome </h1>
-<h3 align="center">Innocation in the aspiration for ethically secure revenue driven AI</h3>
+<h3 align="center">Innvcation in the aspiration for ethically secure revenue driven AI</h3>
 
-<p align="left">Kilian, renowned for his expertise in data processing, functional coding and interactive AI stands at the forefront of human-machine interaction. His work, aspired to be deeply rooted in ethical principles, is driven to create meaningful and sustainable AI-driven solutions.</p>
+<p align="left">A renowned expertise in data processing, functional coding and interactive AI gives a forefront of human-machine interaction. His work, aspired to be deeply rooted in ethical principles, is driven to create meaningful and sustainable AI-driven solutions.</p>
 
 <p align="left">
   <a href="https://twitter.com/k_swe" target="blank">
