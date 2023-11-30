@@ -1,7 +1,7 @@
-<h1 align="center">👋 Welcome to Kilian's World</h1>
-<h3 align="center">Aspiring in Code & Innovation for secure ethical AI</h3>
+<h1 align="center">👋 Welcome </h1>
+<h3 align="center">Innocation in the aspiration for ethically secure revenue driven AI</h3>
 
-<p align="left">Kilian, renowned for his expertise in relational databases, functional programming, and interface design, stands at the forefront of human-machine interaction. His work, deeply rooted in ethical principles, aims to create meaningful and sustainable AI-driven solutions.</p>
+<p align="left">Kilian, renowned for his expertise in data processing, functional coding and interactive AI stands at the forefront of human-machine interaction. His work, aspired to be deeply rooted in ethical principles, is driven to create meaningful and sustainable AI-driven solutions.</p>
 
 <p align="left">
   <a href="https://twitter.com/k_swe" target="blank">
@@ -10,17 +10,17 @@
 </p>
 
 <ul>
-  <li>🔭 Co-founder of the aĩr project, Kilian drives ethical AI practices for global sustainability and human prosperity. <a href="aĩr.com">Learn More</a></li>
+  <li>🔭 Co-founder of the aĩr project, AI practices adressing GRR. <a href="aĩr.com">Learn More</a></li>
 
   <li>🔮 With a diverse advisory portfolio, he leads projects in growth automation and AI, contributing to innovations like Google Cardboard, Spotify Run Keeper, and more.</li>
 
-  <li>🌱 His current focus includes AI in audio processing and resonance modulation, exploring the intersection of technology and natural phenomena.</li>
+  <li>🌱 AI in audio processing and resonance modulation, exploring the intersection of technology and natural phenomena.</li>
 
-  <li>👨‍💻 Kilian's creative endeavors, ranging from functional programming to AR/VR applications, are featured on <a href="codepen.com">CodePen</a>.</li>
+  <li>👨‍💻 AR/VR applications, are featured on <a href="codepen.com">CodePen</a>.</li>
 
-  <li>📝 As a thought leader at <a href="AI News Sweden">AI News Sweden</a>, he advocates for responsible AI development.</li>
+  <li>📝 Contributor at <a href="AI News Sweden">AI News Sweden</a> advocating responsible AI development.</li>
 
-  <li>📝 Kilian's journey over two decades has revolutionized mobile e-commerce, CRM, and AI-driven business solutions.</li>
+  <li>📝 Two decades in mobile e-commerce, CRM, and AI-driven business solutions with a transactional focus.</li>
 
   <li>🎵 From a deep house music producer to a researcher in audio resonance, his work explores the unique influence of sound on matter, particularly water molecules.</li>
 </ul>
