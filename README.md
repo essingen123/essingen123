@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to [Your Name]'s GitHub Page</h1>
+<h1 align="center">👋 Welcome </h1>
 <h3 align="center">Innovation in Aspiring for Ethically Secure, Revenue-Driven AI</h3>
 
 <p align="left">With a renowned expertise in data processing, functional coding, and interactive AI, work is at the forefront of human-machine interaction. Deeply rooted in ethical principles, progress aims to create meaningful and sustainable AI-driven solutions.</p>
