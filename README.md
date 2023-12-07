@@ -19,11 +19,7 @@
   <li>🎵 Transitioning from a deep house music producer to a researcher in audio resonance, exploring sound's unique influence on matter, especially water molecules.</li>
 </ul>
 
-<p align="left">
-  <a href="https://twitter.com/k_swe" target="blank">
-    <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
-  </a>
-</p>
+
 
 
 <p align="center">
@@ -34,6 +30,11 @@
 
 
 <h3 align="left">Connect </h3>
+<p align="left">
+  <a href="https://twitter.com/k_swe" target="blank">
+    <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
+  </a>
+</p>
 <p align="left">
 <a href="https://dev.to/kilianlindberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kilianlindberg" height="30" width="40" /></a>
 <a href="https://twitter.com/k_swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_swe" height="30" width="40" /></a>
