@@ -9,7 +9,7 @@
 
   <li>🌱 AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena</li>
 
-  <li>👨‍💻 AR/VR applications, featured on <a href="https://www.codepen.com">CodePen</a></li>
+  <li>👨‍💻 AR/VR applications</li>
 
   <li>📝 Conttributor to AI News Sweden, advocating for responsible AI development</li>
 
