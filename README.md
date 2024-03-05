@@ -1,33 +1,28 @@
 <h1 align="center">👋 Welcome </h1>
-<h3 align="center">In aspiration to secure Ethical AI, sustainable by game mechanics in short term revenue</h3>
+<h3 align="center">In pursuit of Ethical AI</h3>
+<i>Sustainable through game mechanics and short-term revenue</i>
 
-<p align="left">With a renowned expertise in data processing, functional coding, and interactive AI, work is at the forefront of human-machine interaction. Deeply rooted in ethical principles, progress aims to create meaningful and sustainable AI-driven solutions.</p>
+<p align="left">With a renowned expertise in data processing, functional coding, and interactive AI, I strive to be at the forefront of human-machine interaction. Rooted in ethical principles, my work aims to create meaningful and sustainable AI-driven solutions.</p>
 
 <ul>
   <li>🔭 Co-founder of the Aĩr Project, advancing AI practices addressing GRR. <a href="https://www.aĩr.com">Learn More</a></li>
 
-  <li>🔮 Leading a diverse range of projects in growth automation and AI, contributing to innovations like Google Cardboard and Spotify's Run Keeper.</li>
+  <li>🔮 Leading diverse projects in growth automation and AI, contributing to innovations like Google Cardboard and Spotify's Run Keeper.</li>
 
-  <li>🌱 Pioneering in AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena.</li>
+  <li>🌱 Pioneering AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena.</li>
 
   <li>👨‍💻 Developing cutting-edge AR/VR applications, featured on <a href="https://www.codepen.com">CodePen</a>.</li>
 
-  <li>📝 A regular contributor to <a href="https://www.ainewssweden.com">AI News Sweden</a>, advocating for responsible AI development.</li>
+  <li>📝 Regular contributor to <a href="https://www.ainewssweden.com">AI News Sweden</a>, advocating for responsible AI development.</li>
 
   <li>📝 Boasting two decades of experience in mobile e-commerce, CRM, and AI-driven business solutions, with a focus on transactional efficiency.</li>
 
   <li>🎵 Transitioning from a deep house music producer to a researcher in audio resonance, exploring sound's unique influence on matter, especially water molecules.</li>
 </ul>
 
-
-
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA,A&column=3&theme=oldie" alt="Kilian's GitHub Trophies" width="300" />
 </p>
-
-
-
 
 <h3 align="left">Connect </h3>
 <p align="left">
@@ -35,6 +30,7 @@
     <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge" alt="Kilian on Twitter" />
   </a>
 </p>
+
 <p align="left">
 <a href="https://dev.to/kilianlindberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kilianlindberg" height="30" width="40" /></a>
 <a href="https://twitter.com/k_swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_swe" height="30" width="40" /></a>
