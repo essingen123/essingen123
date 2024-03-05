@@ -1,18 +1,13 @@
-<h1 align="center">👋 Welcome </h1>
-<h3 align="center">In pursuit of Ethical AI</h3>
-<i>Sustainable through game mechanics and short-term revenue</i>
+<h1 align="center">In pursuit of Ethical AI </h1>
+<h3 align="center">Sustainable by game mechanics in short-term revenue</h3>
 
 <p align="left">With a renowned expertise in data processing, functional coding, and interactive AI, I strive to be at the forefront of human-machine interaction. Rooted in ethical principles, my work aims to create meaningful and sustainable AI-driven solutions.</p>
 
 <ul>
   <li>🔭 Co-founder of the Aĩr Project, advancing AI practices addressing GRR. <a href="https://www.aĩr.com">Learn More</a></li>
-
   <li>🔮 Leading diverse projects in growth automation and AI, contributing to innovations like Google Cardboard and Spotify's Run Keeper.</li>
-
   <li>🌱 Pioneering AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena.</li>
-
   <li>👨‍💻 Developing cutting-edge AR/VR applications, featured on <a href="https://www.codepen.com">CodePen</a>.</li>
-
   <li>📝 Regular contributor to <a href="https://www.ainewssweden.com">AI News Sweden</a>, advocating for responsible AI development.</li>
 
   <li>📝 Boasting two decades of experience in mobile e-commerce, CRM, and AI-driven business solutions, with a focus on transactional efficiency.</li>
