@@ -1,18 +1,22 @@
-<h1 align="center">In pursuit of Ethical AI </h1>
-<h3 align="center">Sustainable by game mechanics in short-term revenue</h3>
+<h1 align="center">👋 Welcome </h1>
+<h3 align="center">In pursuit of Ethical AI</h3>
+<i>Sustainable by game mechanics in short-term revenue</i>
 
-<p align="left">With a renowned expertise in data processing, functional coding, and interactive AI, I strive to be at the forefront of human-machine interaction. Rooted in ethical principles, my work aims to create meaningful and sustainable AI-driven solutions.</p>
+<p align="left">Expertise in data processing, functional coding, and interactive AI</p>
 
 <ul>
-  <li>🔭 Co-founder of the Aĩr Project, advancing AI practices addressing GRR. <a href="https://www.aĩr.com">Learn More</a></li>
-  <li>🔮 Leading diverse projects in growth automation and AI, contributing to innovations like Google Cardboard and Spotify's Run Keeper.</li>
-  <li>🌱 Pioneering AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena.</li>
-  <li>👨‍💻 Developing cutting-edge AR/VR applications, featured on <a href="https://www.codepen.com">CodePen</a>.</li>
-  <li>📝 Regular contributor to <a href="https://www.ainewssweden.com">AI News Sweden</a>, advocating for responsible AI development.</li>
+  <li>🔭 the Aĩr Project, advancing AI practices addressing GRR</li>
+  <li>🔮 growth automation and AI, contributing to innovations like Google Cardboard and Spotify's Run Keeper</li>
 
-  <li>📝 Boasting two decades of experience in mobile e-commerce, CRM, and AI-driven business solutions, with a focus on transactional efficiency.</li>
+  <li>🌱 AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena</li>
 
-  <li>🎵 Transitioning from a deep house music producer to a researcher in audio resonance, exploring sound's unique influence on matter, especially water molecules.</li>
+  <li>👨‍💻 AR/VR applications, featured on <a href="https://www.codepen.com">CodePen</a></li>
+
+  <li>📝 Conttributor to AI News Sweden, advocating for responsible AI development</li>
+
+  <li>📝 Decades of experience in mobile e-commerce, CRM, and AI-driven business solutions, with a focus on transactional efficiency</li>
+
+  <li>🎵 Audio resonance, exploring sound's unique influence on matter, especially water </li>
 </ul>
 
 <p align="center">
