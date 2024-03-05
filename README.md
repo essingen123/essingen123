@@ -1,11 +1,10 @@
-<h1 align="center">👋 Welcome </h1>
-<h3 align="center">In pursuit of Ethical AI</h3>
-<i>Sustainable by game mechanics in short-term revenue</i>
 
-<p align="left">Expertise in data processing, functional coding, and interactive AI</p>
+<p align="left">Data processing, functional coding, and interactive AI</p>
+
+
 
 <ul>
-  <li>🔭 the Aĩr Project, advancing AI practices addressing GRR</li>
+  <li>🔭 advancing AI practices addressing GRR; Ethical AI; Sustainable by game mechanics in short-term revenue</li>
   <li>🔮 growth automation and AI, contributing to innovations like Google Cardboard and Spotify's Run Keeper</li>
 
   <li>🌱 AI for audio processing and resonance modulation, at the intersection of technology and natural phenomena</li>
