@@ -1,28 +1,26 @@
-<h3 align="center">AI Developer & Ethical Technologist</h3>
+<div align="center">
+  <h3>AI Developer keen on Ethical Accessibility for inclusivity</h3>
+  <p>A creative coder with a passion for functional programming, interactive AI, and exploring the deeper connections between technology and natural phenomena.</p>
+</div>
 
-<p align="center">
-  A creative coder with a passion for functional programming, interactive AI, and exploring the deeper connections between technology and natural phenomena.
-</p>
+<hr />
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA&column=4&theme=oldie" alt="Kilian's GitHub Trophies" width="300" />
+</div>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA&column=4&theme=oldie" alt="Kilian's GitHub Trophies" width="300" />
-</p>
+<h3>Key Interests & Focus Areas</h3>
+<ul>
+  <li>🔭 <strong>Ethical AI & Governance:</strong> Advancing AI practices for Governance, Risk, and Regulation (GRR) and exploring sustainable models through game mechanics.</li>
+  <li>🔮 <strong>Growth & Innovation:</strong> Contributing to innovations like <strong>Google Cardboard</strong> and <strong>Spotify's Run Keeper</strong> through growth automation and AI.</li>
+  <li>🌱 <strong>Audio & Resonance:</strong> AI for audio processing and resonance modulation, researching sound's influence on matter.</li>
+  <li>👨‍💻 <strong>Interactive Tech:</strong> Immersive AR/VR applications and decades of experience in mobile e-commerce, CRM, and AI-driven business solutions.</li>
+  <li>📝 <strong>Advocacy:</strong> Contributor to <strong>AI News Sweden</strong>, advocating for responsible AI development.</li>
+</ul>
 
+<hr />
 
-### Key Interests & Focus Areas
-
-- 🔭 **Ethical AI & Governance:** Advancing AI practices for Governance, Risk, and Regulation (GRR) and exploring sustainable models through game mechanics.
-- 🔮 **Growth & Innovation:** Contributing to innovations like **Google Cardboard** and **Spotify's Run Keeper** through growth automation and AI.
-- 🌱 **Audio & Resonance:** AI for audio processing and resonance modulation, researching sound's influence on matter.
-- 👨‍💻 **Interactive Tech:** Immersive AR/VR applications and decades of experience in mobile e-commerce, CRM, and AI-driven business solutions.
-- 📝 **Advocacy:** Contributor to **AI News Sweden**, advocating for responsible AI development.
-
----
-
-### Connect with Me
-
+<h3>Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/k_swe" target="_blank">
     <img src="https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge&color=000000" alt="Follow on Twitter"/>
@@ -33,7 +31,7 @@
   <a href="https://dev.to/kilianlindberg" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Read on dev.to"/>
   </a>
-   <a href="https://stackoverflow.com/users/kilian-lindberg" target="_blank">
+  <a href="https://stackoverflow.com/users/kilian-lindberg" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="View on Stack Overflow"/>
   </a>
 </p>
