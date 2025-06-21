@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>AI Developer keen on Ethical Accessibility for inclusivity</h3>
-  <p>A creative coder with a passion for functional programming, interactive AI, and exploring the deeper connections between technology and natural phenomena.</p>
+  <h3>AI & Systems Architect Coding since the age of Floppy disks (724 Kb + ~1.4 Mb)</h3>
+  <p>All about Ethical Accessibility for inclusivity a code artist tweaking formants for voice and animations with Imagine on the Amiga 4000 (500, 2000, 600 & 1200 -- including exploring transients of the TB303) in the 90s ~ keen of functional programming, 'interactive' AI exploring the deeper connections between information and natural phenomena.</p>
 </div>
 
 <hr />
