@@ -1,19 +1,20 @@
 <div align="center">
-<h3>🎛️ code artist · systems architect · cultivating form since the floppy disk era</h3>h3>
-<p>
-  born on the Amiga 4000 — tweaking formants, tracing transients on the TB303,
-  exploring the deeper resonance between information and living systems ·
-  now planting vectors of opportunity where sound, language and spatial form converge ✨
-</p>p>
-</div>div>
+
+## code artist · systems architect · cultivating form since the floppy disk era
+
+*born on the Amiga 4000 — tweaking formants, tracing transients on the TB303,
+exploring the deeper resonance between information and living systems ·
+now planting vectors of opportunity where sound, language and spatial form converge ✨*
+
+</div>
 
 <hr />
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA&column=4&theme=oldie" alt="trophies" width="300" />
+  <img src="https://github-profile-trophy.vercel.app/?username=essingen123&rank=SSS,SS,S,AAA,AA&column=4&theme=oldie" alt="trophies" width="300" />
 </div>div>
 
-### 🌱 vectors of opportunity
+## 🌱 vectors of opportunity
 
 - 🔭 **listening to the form of AI** — tracing where governance meets the living edge of what's possible
 - - 🌿 **cultivating growth** — from Google Cardboard to Spotify's Run Keeper, planting things that compound
@@ -23,7 +24,7 @@
        
         - <hr />
 
-        ### 🫧 currently tending
+        ## 🫧 currently tending
 
         - 💎 **very fast speech AI** — a human language distilled, inspired by toki pona & Sanskrit · small words, deep form
         - - 🎩 **XR spatial vibe coding studio** — drum synth · spatial · vine coding · where the groove writes the code
@@ -142,4 +143,3 @@
               </p>p>
               </p>
                 </h3>
-</p></h3>
