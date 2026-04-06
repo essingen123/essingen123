@@ -2,7 +2,7 @@
 from early Amigas with TTS and the TB-303 to spatial computing. a reminder of when operating systems fit on a floppy disk · now exploring code, resonance & its cadence for longevity flow
 
 **currently tending**<br />
-💎 full duplex resonance — natural, expressive & faster human & AI performance in communion<br />
+💎 full duplex resonance — faster than real-time, natural human & AI performance in communion<br />
 🪐 spatial vibe coding — XR, drum synths; where code & groove vibe<br />
 🫧 resonant systems — AI & water droplet memory physics<br />
    
