@@ -1,6 +1,6 @@
-### 🎛️ I like synthesizers and mind kind things.
+### 🎛️ I like synthesizers and mind kind things. 
 
-making little things with code, sound, light & machines 
+making little things with code, sound, light & machines  
 [aĩr.com](https://aĩr.com)
 
 a human in a room is not the room  
