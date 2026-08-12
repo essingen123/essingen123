@@ -3,7 +3,9 @@
 making little things with code, sound, light & machines 
 [aĩr.com](https://aĩr.com)
 
+
 a human in a room is not the room
+
 a mind in a machine is not the machine
 
 
