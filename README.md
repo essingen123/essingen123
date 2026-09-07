@@ -1,10 +1,12 @@
-### 🎛️ ĩ like synthesizers & mind kind design
+### 🎛️ ĩ like synthesizers & mind kind design  
 
-functional preferences 'bout tiny code, sfx, gfx & deep-house machines by day to a cadence in resting cycles
+functional preferences 'bout tiny code, sfx, gfx & deep-house machines by day to a cadence in resting cycles  
 
-a human in a house grooce is not the house groove,  
-thus in our deep-house, <br>
-reasoner in a machine is not the machine; a day when wonder is aha (uh-huh) reason is to be
+silly as it sound a reminder may be that  
+a human in a house is not the house,  
+thus in our deep-house,  
+a reasoner in a machine is not the machine;  
+a day when wonder is aha (uh-huh) reason is to be  
 
 so ĩ guess here we conclude to a wave above the i
 
