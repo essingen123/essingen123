@@ -1,4 +1,4 @@
-### 🎛️ ĩ like synthesizers & mind kind desihn.
+### 🎛️ ĩ like synthesizers & mind kind design
 
 functional preferences 'bout tiny code, sfx, gfx & deep-house machines by day to a cadence in resting cycles
 
