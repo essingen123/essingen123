@@ -1,10 +1,16 @@
-### 🎛️ I like synthesizers and mind kind things. 
+### 🎛️ ĩ like synthesizers & mind kind desihn.
 
-making little things with code, sound, light & machines  
+functional preferences 'bout tiny code, sfx, gfx & deep-house machines by day to a cadence in resting cycles
+
+a human in a house grooce is not the house groove,  
+thus in our deep-house, <br>
+reasoner in a machine is not the machine; a day when wonder is aha (uh-huh) reason is to be
+
+so ĩ guess here we conclude to a wave above the i
+
 [aĩr.com](https://aĩr.com)
 
-a human in a room is not the room<br>
-a mind in a machine is not the machine
-
-
+fiddles with conceptual game-plays orbiting 'deep time cybernetics', 'functional preferences' & 'Mind Kind Design' @ NoPinkAI (very pink AI is okidoki too) YayBow & Aĩr
 [![Follow on Twitter](https://img.shields.io/twitter/follow/k_swe?logo=twitter&style=for-the-badge&color=000000)](https://twitter.com/k_swe) [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/kilian-lindberg) [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkkedin) [![Read on dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kilianlindberg)
+
+ps artful expressions of pure data sound systems with cymatics chladni tiny water droplets to loop light as generative to a mind map graph is 'yay bow' too; we may shape the harmonized in machines and yet housekeeping leeway to form with entities that reason ds
