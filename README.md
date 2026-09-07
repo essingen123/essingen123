@@ -8,8 +8,9 @@ thus in our deep-house,
 a reasoner in a machine is not the machine;  
 a day when wonder is aha (uh-huh) reason is to be  
 
-so ĩ guess here we conclude to a wave above the i
-
+so ĩ guess here we conclude here to  
+a wave above the i  
+👋 
 [aĩr.com](https://aĩr.com)
 
 fiddles with conceptual game-plays orbiting 'deep time cybernetics', 'functional preferences' & 'Mind Kind Design' @ NoPinkAI (very pink AI is okidoki too) YayBow & Aĩr
